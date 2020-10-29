@@ -1,0 +1,19 @@
+	      WELCOME TO HANDA STORE
+ Bill Number : 1279
+ Customer Name : Rajat handa
+ Phone Number : 7009733898
+ ================================================
+ Products 			QTY		Price
+ ================================================
+ Bath Soap 			2		80
+ Face Wash 			2		80
+ Rice 			3		720
+ Sugar 			3		360
+ Maaza 			4		100
+ Coka-Cola 			4		240
+ ------------------------------------------------
+ Cosmeitc Tax 					Rs 8
+ Grocery Tax 					Rs 108
+ Soft Drink Tax 					Rs 17
+ ------------------------------------------------
+ Total Bill =  					1713.0
